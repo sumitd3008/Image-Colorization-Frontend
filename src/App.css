@@ -3,7 +3,7 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   /*background: linear-gradient(135deg, #5de1c2, #F5FFFA);*/
-  background-image: url("D:\Projects_Sumit\colorize\bg1.jpeg");
+  background-image: url("../public/bg1.jpeg");
   background-size: cover;
   height: 100vh;
   display: flex;
